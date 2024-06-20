@@ -1,32 +1,24 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+--Ananya Adappa's Portfolio--
 
+Welcome to my portfolio! This repository contains my personal website, showcasing my projects, skills, and experiences.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+--Website--
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+You can visit my portfolio website [here](https://ananyaadappa.github.io/AnanyaPortfolio.github.io/).
 
-(* = not included)
+--Projects--
 
-AJ
-aj@lkn.io | @ajlkn
+Bank Loan Report:
+An interactive dashboard providing a detailed view of bank loan performance, highlighting key metrics and loan statuses.
 
+HR Analytics Dashboard:
+A dashboard offering insights into employee information, attrition rates, demographics, and job satisfaction levels.
 
-Credits:
+Electric Vehicle Analysis:
+A dashboard displaying metrics related to electric vehicle sales, including breakdowns by country, model year, and more.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Call Centre Dashboard:
+A dashboard showing metrics for call center performance, including call volume, duration, and response times.
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Pizza Sales Report:
+A report on pizza sales data across various time periods, detailing performance by pizza categories and sizes.
